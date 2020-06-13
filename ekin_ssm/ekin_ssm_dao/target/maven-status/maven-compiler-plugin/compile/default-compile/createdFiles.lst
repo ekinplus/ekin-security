@@ -1,0 +1,8 @@
+com\ekin\ssm\dao\IOrdersDao.class
+com\ekin\ssm\dao\IRoleDao.class
+com\ekin\ssm\dao\IPermissionDao.class
+com\ekin\ssm\dao\ISysLogDao.class
+com\ekin\ssm\dao\IProductDao.class
+com\ekin\ssm\dao\IMemberDao.class
+com\ekin\ssm\dao\IUserDao.class
+com\ekin\ssm\dao\ITravellerDao.class

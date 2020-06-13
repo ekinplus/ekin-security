@@ -1,0 +1,7 @@
+com\ekin\ssm\controller\ProductController.class
+com\ekin\ssm\controller\SysLogController.class
+com\ekin\ssm\controller\PermissionController.class
+com\ekin\ssm\controller\RoleController.class
+com\ekin\ssm\controller\OrdersController.class
+com\ekin\ssm\controller\UserController.class
+com\ekin\ssm\controller\LogAop.class

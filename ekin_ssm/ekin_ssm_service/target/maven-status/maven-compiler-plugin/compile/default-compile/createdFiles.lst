@@ -1,0 +1,12 @@
+com\ekin\ssm\service\impl\SysLogServiceImpl.class
+com\ekin\ssm\service\impl\OrdersServiceImpl.class
+com\ekin\ssm\service\impl\PermissionServiceImpl.class
+com\ekin\ssm\service\IRoleService.class
+com\ekin\ssm\service\impl\UserServiceImpl.class
+com\ekin\ssm\service\impl\RoleServiceImpl.class
+com\ekin\ssm\service\IUserService.class
+com\ekin\ssm\service\IPermissionService.class
+com\ekin\ssm\service\IProductService.class
+com\ekin\ssm\service\impl\ProductServiceImpl.class
+com\ekin\ssm\service\ISysLogService.class
+com\ekin\ssm\service\IOrdersService.class

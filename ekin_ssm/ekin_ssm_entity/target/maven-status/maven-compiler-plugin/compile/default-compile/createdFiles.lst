@@ -1,0 +1,8 @@
+com\ekin\ssm\entity\Permission.class
+com\ekin\ssm\entity\Role.class
+com\ekin\ssm\entity\Orders.class
+com\ekin\ssm\entity\UserInfo.class
+com\ekin\ssm\entity\Member.class
+com\ekin\ssm\entity\Traveller.class
+com\ekin\ssm\entity\SysLog.class
+com\ekin\ssm\entity\Product.class
